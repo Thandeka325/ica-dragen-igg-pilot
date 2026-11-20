@@ -1,0 +1,485 @@
+{
+  "ica_api_key": "secret",
+  "enable_byob": false,
+  "ica_region": {
+    "id": "148c90bd-f918-4ba6-971a-835b9e0e8d8c",
+    "timeCreated": "2021-11-05T10:08:42Z",
+    "timeModified": "2026-07-15T18:21:19Z",
+    "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+    "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+    "tenantName": "ica-cp-admin",
+    "code": "EU",
+    "country": {
+      "id": "ef290f3b-4985-4345-a4ce-835059c782e4",
+      "timeCreated": "2021-10-29T09:44:26Z",
+      "timeModified": "2021-10-29T09:44:26Z",
+      "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+      "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+      "tenantName": "Illumina",
+      "code": "DE",
+      "name": "Germany",
+      "region": "earth"
+    },
+    "cityName": "Frankfurt",
+    "active": true
+  },
+  "ica_storage_bundle": {
+    "id": "22140b4d-14bf-452e-83ef-6c1a9e20b787",
+    "timeCreated": "2021-11-23T13:03:27Z",
+    "timeModified": "2021-11-23T13:03:27Z",
+    "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+    "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+    "tenantName": "Illumina",
+    "bundleName": "ICA_FT-EU_Storage_Entitlement",
+    "entitlementName": "ICA_iap-euc1_ICA30-dayFreeTrial",
+    "region": {
+      "id": "148c90bd-f918-4ba6-971a-835b9e0e8d8c",
+      "timeCreated": "2021-11-05T10:08:42Z",
+      "timeModified": "2026-07-15T18:21:19Z",
+      "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+      "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+      "tenantName": "ica-cp-admin",
+      "code": "EU",
+      "country": {
+        "id": "ef290f3b-4985-4345-a4ce-835059c782e4",
+        "timeCreated": "2021-10-29T09:44:26Z",
+        "timeModified": "2021-10-29T09:44:26Z",
+        "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+        "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+        "tenantName": "Illumina",
+        "code": "DE",
+        "name": "Germany",
+        "region": "earth"
+      },
+      "cityName": "Frankfurt",
+      "active": true
+    }
+  },
+  "ica_storage_configuration": null,
+  "ica_job_project": {
+    "id": "4563f958-d4cb-40e4-86dd-ec568171158a",
+    "timeCreated": "2026-08-18T16:57:18Z",
+    "timeModified": "2026-08-18T16:57:19Z",
+    "ownerId": "596acace-fb70-38bd-94f8-9a3ef7121374",
+    "tenantId": "c8b7fb81-3cb7-4c48-b47a-a146dfa6c73e",
+    "tenantName": "gencoe-pagra",
+    "urn": "urn:ilmn:ica:project:4563f958-d4cb-40e4-86dd-ec568171158a#euc1-dragen-igg-20260818165545-jobs",
+    "name": "euc1-dragen-igg-20260818165545-jobs",
+    "active": true,
+    "baseEnabled": false,
+    "region": {
+      "id": "148c90bd-f918-4ba6-971a-835b9e0e8d8c",
+      "timeCreated": "2021-11-05T10:08:42Z",
+      "timeModified": "2026-07-15T18:21:19Z",
+      "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+      "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+      "tenantName": "ica-cp-admin",
+      "code": "EU",
+      "country": {
+        "id": "ef290f3b-4985-4345-a4ce-835059c782e4",
+        "timeCreated": "2021-10-29T09:44:26Z",
+        "timeModified": "2021-10-29T09:44:26Z",
+        "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+        "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+        "tenantName": "Illumina",
+        "code": "DE",
+        "name": "Germany",
+        "region": "earth"
+      },
+      "cityName": "Frankfurt",
+      "active": true
+    },
+    "billingMode": "PROJECT",
+    "dataSharingEnabled": false,
+    "tags": {
+      "technicalTags": [],
+      "userTags": []
+    },
+    "storageBundle": {
+      "id": "22140b4d-14bf-452e-83ef-6c1a9e20b787",
+      "timeCreated": "2021-11-23T13:03:27Z",
+      "timeModified": "2021-11-23T13:03:27Z",
+      "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+      "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+      "tenantName": "Illumina",
+      "bundleName": "ICA_FT-EU_Storage_Entitlement",
+      "entitlementName": "ICA_iap-euc1_ICA30-dayFreeTrial",
+      "region": {
+        "id": "148c90bd-f918-4ba6-971a-835b9e0e8d8c",
+        "timeCreated": "2021-11-05T10:08:42Z",
+        "timeModified": "2026-07-15T18:21:19Z",
+        "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+        "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+        "tenantName": "ica-cp-admin",
+        "code": "EU",
+        "country": {
+          "id": "ef290f3b-4985-4345-a4ce-835059c782e4",
+          "timeCreated": "2021-10-29T09:44:26Z",
+          "timeModified": "2021-10-29T09:44:26Z",
+          "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+          "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+          "tenantName": "Illumina",
+          "code": "DE",
+          "name": "Germany",
+          "region": "earth"
+        },
+        "cityName": "Frankfurt",
+        "active": true
+      }
+    },
+    "analysisPriority": "MEDIUM",
+    "application": {
+      "id": "e395cd36-9b1f-4f51-bec0-d4e940cd0739",
+      "name": "ICA",
+      "type": "MAIN",
+      "displayName": "ICA"
+    },
+    "projectOwner": "596acace-fb70-38bd-94f8-9a3ef7121374"
+  },
+  "ica_job_project_meta_folder": {
+    "data": {
+      "id": "fol.395b558ea1e34ab6945a08defb53f533",
+      "urn": "urn:ilmn:ica:region:148c90bd-f918-4ba6-971a-835b9e0e8d8c:data:fol.395b558ea1e34ab6945a08defb53f533#/meta/",
+      "details": {
+        "timeCreated": "2026-08-18T16:57:23Z",
+        "timeModified": "2026-08-18T16:57:23Z",
+        "creatorId": "e544cb42-7ecb-42e7-9d5a-4424b428457a",
+        "tenantId": "c8b7fb81-3cb7-4c48-b47a-a146dfa6c73e",
+        "tenantName": "gencoe-pagra",
+        "owningProjectId": "4563f958-d4cb-40e4-86dd-ec568171158a",
+        "owningProjectName": "euc1-dragen-igg-20260818165545-jobs",
+        "name": "meta",
+        "path": "/meta/",
+        "status": "AVAILABLE",
+        "tags": {
+          "technicalTags": [],
+          "userTags": [],
+          "connectorTags": [],
+          "runInTags": [],
+          "runOutTags": [],
+          "referenceTags": []
+        },
+        "format": {
+          "id": "144fba08-08b2-425c-9453-263daff3047a",
+          "timeCreated": "2021-10-29T09:44:28Z",
+          "timeModified": "2021-10-29T09:44:28Z",
+          "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+          "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+          "tenantName": "Illumina",
+          "code": "UNKNOWN",
+          "description": "Unknown data format"
+        },
+        "dataType": "FOLDER",
+        "storedForTheFirstTimeAt": "2026-08-18T16:57:23Z",
+        "region": {
+          "id": "148c90bd-f918-4ba6-971a-835b9e0e8d8c",
+          "timeCreated": "2021-11-05T10:08:42Z",
+          "timeModified": "2026-07-15T18:21:19Z",
+          "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "code": "EU",
+          "country": {
+            "id": "ef290f3b-4985-4345-a4ce-835059c782e4",
+            "timeCreated": "2021-10-29T09:44:26Z",
+            "timeModified": "2021-10-29T09:44:26Z",
+            "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+            "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+            "tenantName": "Illumina",
+            "code": "DE",
+            "name": "Germany",
+            "region": "earth"
+          },
+          "cityName": "Frankfurt",
+          "active": true
+        },
+        "application": {
+          "id": "e395cd36-9b1f-4f51-bec0-d4e940cd0739",
+          "name": "ICA"
+        }
+      },
+      "folderDetails": {
+        "nonIndexed": false
+      }
+    },
+    "projectId": "4563f958-d4cb-40e4-86dd-ec568171158a"
+  },
+  "ica_job_project_jobs_folder": {
+    "data": {
+      "id": "fol.ba1cb36770364adc3a7f08def9311a20",
+      "urn": "urn:ilmn:ica:region:148c90bd-f918-4ba6-971a-835b9e0e8d8c:data:fol.ba1cb36770364adc3a7f08def9311a20#/jobs/",
+      "details": {
+        "timeCreated": "2026-08-18T16:57:25Z",
+        "timeModified": "2026-08-18T16:57:25Z",
+        "creatorId": "e544cb42-7ecb-42e7-9d5a-4424b428457a",
+        "tenantId": "c8b7fb81-3cb7-4c48-b47a-a146dfa6c73e",
+        "tenantName": "gencoe-pagra",
+        "owningProjectId": "4563f958-d4cb-40e4-86dd-ec568171158a",
+        "owningProjectName": "euc1-dragen-igg-20260818165545-jobs",
+        "name": "jobs",
+        "path": "/jobs/",
+        "status": "AVAILABLE",
+        "tags": {
+          "technicalTags": [],
+          "userTags": [],
+          "connectorTags": [],
+          "runInTags": [],
+          "runOutTags": [],
+          "referenceTags": []
+        },
+        "format": {
+          "id": "144fba08-08b2-425c-9453-263daff3047a",
+          "timeCreated": "2021-10-29T09:44:28Z",
+          "timeModified": "2021-10-29T09:44:28Z",
+          "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+          "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+          "tenantName": "Illumina",
+          "code": "UNKNOWN",
+          "description": "Unknown data format"
+        },
+        "dataType": "FOLDER",
+        "storedForTheFirstTimeAt": "2026-08-18T16:57:25Z",
+        "region": {
+          "id": "148c90bd-f918-4ba6-971a-835b9e0e8d8c",
+          "timeCreated": "2021-11-05T10:08:42Z",
+          "timeModified": "2026-07-15T18:21:19Z",
+          "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "code": "EU",
+          "country": {
+            "id": "ef290f3b-4985-4345-a4ce-835059c782e4",
+            "timeCreated": "2021-10-29T09:44:26Z",
+            "timeModified": "2021-10-29T09:44:26Z",
+            "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+            "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+            "tenantName": "Illumina",
+            "code": "DE",
+            "name": "Germany",
+            "region": "earth"
+          },
+          "cityName": "Frankfurt",
+          "active": true
+        },
+        "application": {
+          "id": "e395cd36-9b1f-4f51-bec0-d4e940cd0739",
+          "name": "ICA"
+        }
+      },
+      "folderDetails": {
+        "nonIndexed": false
+      }
+    },
+    "projectId": "4563f958-d4cb-40e4-86dd-ec568171158a"
+  },
+  "ica_job_project_config_file": {
+    "data": {
+      "id": "fil.0a65ca2c28474eec945e08defb53f533",
+      "urn": "urn:ilmn:ica:region:148c90bd-f918-4ba6-971a-835b9e0e8d8c:data:fil.0a65ca2c28474eec945e08defb53f533#/meta/secret/project-config.20260818165451.json",
+      "details": {
+        "timeCreated": "2026-08-18T16:59:55Z",
+        "timeModified": "2026-08-18T16:59:59Z",
+        "creatorId": "e544cb42-7ecb-42e7-9d5a-4424b428457a",
+        "tenantId": "c8b7fb81-3cb7-4c48-b47a-a146dfa6c73e",
+        "tenantName": "gencoe-pagra",
+        "owningProjectId": "4563f958-d4cb-40e4-86dd-ec568171158a",
+        "owningProjectName": "euc1-dragen-igg-20260818165545-jobs",
+        "name": "project-config.20260818165451.json",
+        "path": "/meta/secret/project-config.20260818165451.json",
+        "fileSizeInBytes": 18636,
+        "status": "AVAILABLE",
+        "tags": {
+          "technicalTags": [],
+          "userTags": [],
+          "connectorTags": [],
+          "runInTags": [],
+          "runOutTags": [],
+          "referenceTags": []
+        },
+        "format": {
+          "id": "c908502c-1844-4a0c-b0c1-ed7858312827",
+          "timeCreated": "2021-10-29T09:44:27Z",
+          "timeModified": "2025-08-27T00:00:00Z",
+          "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+          "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+          "tenantName": "Illumina",
+          "code": "JSON",
+          "description": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999. JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others.",
+          "mimeType": "application/json"
+        },
+        "dataType": "FILE",
+        "objectETag": "5fb72044f5e0823e453e8b2abff13ea4",
+        "storedForTheFirstTimeAt": "2026-08-18T16:59:55Z",
+        "region": {
+          "id": "148c90bd-f918-4ba6-971a-835b9e0e8d8c",
+          "timeCreated": "2021-11-05T10:08:42Z",
+          "timeModified": "2026-07-15T18:21:19Z",
+          "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "code": "EU",
+          "country": {
+            "id": "ef290f3b-4985-4345-a4ce-835059c782e4",
+            "timeCreated": "2021-10-29T09:44:26Z",
+            "timeModified": "2021-10-29T09:44:26Z",
+            "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+            "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+            "tenantName": "Illumina",
+            "code": "DE",
+            "name": "Germany",
+            "region": "earth"
+          },
+          "cityName": "Frankfurt",
+          "active": true
+        },
+        "application": {
+          "id": "e395cd36-9b1f-4f51-bec0-d4e940cd0739",
+          "name": "ICA"
+        }
+      }
+    },
+    "projectId": "4563f958-d4cb-40e4-86dd-ec568171158a"
+  },
+  "ica_analysis_storage": {
+    "id": "e481783d-91ae-48e5-a514-56c3bd7e190c",
+    "name": "3XLarge",
+    "description": "64TB"
+  },
+  "ica_analysis_docker_image": "699120554104.dkr.ecr.eu-central-1.amazonaws.com/public/popgen/popgen-dragen-igg:2.2.3",
+  "ica_analysis_pipeline": {
+    "pipeline": {
+      "id": "59aa1813-1488-4ea3-bccf-8815c14d9128",
+      "timeCreated": "2026-08-18T16:58:03Z",
+      "timeModified": "2026-08-18T16:58:03Z",
+      "ownerId": "596acace-fb70-38bd-94f8-9a3ef7121374",
+      "tenantId": "c8b7fb81-3cb7-4c48-b47a-a146dfa6c73e",
+      "tenantName": "gencoe-pagra",
+      "code": "dragen-igg-2-2-3-euc1-dragen-igg-20260818165545-jobs",
+      "urn": "urn:ilmn:ica:pipeline:59aa1813-1488-4ea3-bccf-8815c14d9128#dragen-igg-2-2-3-euc1-dragen-igg-20260818165545-jobs",
+      "description": "dragen-igg-2-2-3-euc1-dragen-igg-20260818165545-jobs",
+      "status": "DRAFT",
+      "language": "CWL",
+      "pipelineTags": {
+        "technicalTags": []
+      },
+      "analysisStorage": {
+        "id": "e481783d-91ae-48e5-a514-56c3bd7e190c",
+        "timeCreated": "2023-02-16T21:39:03Z",
+        "timeModified": "2026-02-11T23:17:51Z",
+        "ownerId": "dda792d4-7e9c-3c5c-8d0b-93f0cdddd701",
+        "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+        "tenantName": "ica-cp-admin",
+        "name": "3XLarge",
+        "description": "64TB"
+      },
+      "proprietary": false,
+      "inputFormType": "XML"
+    },
+    "projectId": "4563f958-d4cb-40e4-86dd-ec568171158a",
+    "bundleLinks": {
+      "items": []
+    }
+  },
+  "ica_analysis_activation_code": {
+    "id": "e7644dd2-6826-47a1-a334-00a0163e0ba3",
+    "allowedSlots": -1,
+    "usedSlots": 0,
+    "movedSlots": 0,
+    "originalSlots": -1,
+    "pipelineBundle": {
+      "id": "1ccdb1cb-7411-4543-9774-0db0e6c4131a",
+      "name": "ICA_FT-EU_Pipeline_Entitlement",
+      "maxNumberOfAllowedSlots": -1,
+      "activePipelines": [],
+      "canceledPipelines": [],
+      "retiredPipelines": [],
+      "regions": [
+        {
+          "id": "148c90bd-f918-4ba6-971a-835b9e0e8d8c",
+          "timeCreated": "2021-11-05T10:08:42Z",
+          "timeModified": "2026-07-15T18:21:19Z",
+          "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "code": "EU",
+          "country": {
+            "id": "ef290f3b-4985-4345-a4ce-835059c782e4",
+            "timeCreated": "2021-10-29T09:44:26Z",
+            "timeModified": "2021-10-29T09:44:26Z",
+            "ownerId": "499bfe9d-85bd-4588-ba70-fbc2f664bb9e",
+            "tenantId": "9fec8354-853b-4ee5-b211-eb03e484d876",
+            "tenantName": "Illumina",
+            "code": "DE",
+            "name": "Germany",
+            "region": "earth"
+          },
+          "cityName": "Frankfurt",
+          "active": true
+        }
+      ],
+      "analysisStorages": [
+        {
+          "id": "e481783d-91ae-48e5-a514-56c3bd7e190c",
+          "timeCreated": "2023-02-16T21:39:03Z",
+          "timeModified": "2026-02-11T23:17:51Z",
+          "ownerId": "dda792d4-7e9c-3c5c-8d0b-93f0cdddd701",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "name": "3XLarge",
+          "description": "64TB"
+        },
+        {
+          "id": "8bc4695d-5b20-43a8-aea3-181b4bf6f07e",
+          "timeCreated": "2023-02-16T21:36:11Z",
+          "timeModified": "2026-02-11T23:17:39Z",
+          "ownerId": "dda792d4-7e9c-3c5c-8d0b-93f0cdddd701",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "name": "XLarge",
+          "description": "16TB"
+        },
+        {
+          "id": "6e1b6c8f-f913-48b2-9bd0-7fc13eda0fd0",
+          "timeCreated": "2021-11-05T10:28:20Z",
+          "timeModified": "2026-02-11T23:17:24Z",
+          "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "name": "Small",
+          "description": "1.2TB"
+        },
+        {
+          "id": "96b5a0a9-30d7-4bdb-b3f0-3113b095ef04",
+          "timeCreated": "2021-11-05T10:28:20Z",
+          "timeModified": "2026-02-11T23:17:29Z",
+          "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "name": "Medium",
+          "description": "2.4TB"
+        },
+        {
+          "id": "0b989884-018a-4958-893e-fa9c9abdd005",
+          "timeCreated": "2023-02-16T21:37:09Z",
+          "timeModified": "2026-02-11T23:17:45Z",
+          "ownerId": "dda792d4-7e9c-3c5c-8d0b-93f0cdddd701",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "name": "2XLarge",
+          "description": "32TB"
+        },
+        {
+          "id": "3fab13dd-46e7-4b54-bb34-b80a01a99379",
+          "timeCreated": "2021-11-05T10:28:20Z",
+          "timeModified": "2026-02-11T23:17:34Z",
+          "ownerId": "8ec463f6-1acb-341b-b321-043c39d8716a",
+          "tenantId": "f91bb1a0-c55f-4bce-8014-b2e60c0ec7d3",
+          "tenantName": "ica-cp-admin",
+          "name": "Large",
+          "description": "7.2TB"
+        }
+      ]
+    },
+    "usages": []
+  }
+}
